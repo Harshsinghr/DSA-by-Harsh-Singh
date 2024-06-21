@@ -158,3 +158,35 @@ if __name__ == "__main__":
 
     print("\nInorder traversal after deletion:", end=" ")
     inorderTraversal(root)
+
+"""---------------------------------------------------------------------------------------------------------------------------------------
+Components of the Code:
+    Node Class:
+        Defines the structure of a node in a binary tree (Node class).
+        Each node has a data attribute and pointers (left, right) to its left and right children.
+    Insertion Function (insert):
+
+        Inserts a new node into the binary tree.
+            Uses a queue (deque) for level-order traversal to find the appropriate position to insert the new node.
+        Deletion of Deepest Node (deletDeepest):
+            Deletes the deepest node in the binary tree.
+            Uses level-order traversal to find and delete the node.
+        Deletion Function (deletion):
+            Deletes a specific node (key) from the binary tree.
+            Uses level-order traversal to find the node to delete and replaces it with the deepest node.
+        Traversal Functions:
+            Inorder Traversal (inorderTraversal): Left -> Root -> Right
+            Preorder Traversal (preorderTraversal): Root -> Left -> Right
+            Postorder Traversal (postorderTraversal): Left -> Right -> Root
+            Level-order Traversal (levelorderTraversal): Prints nodes level by level using a queue.
+    Driver Code:
+        Sets up a sample binary tree by inserting nodes (10, 20, 30, 40).
+            Performs various traversals (preorder, inorder, postorder, level-order).
+            Deletes a node with data 20.
+            Prints the inorder traversal after deletion.
+        Key Points:
+            Insertion and Deletion: Utilize level-order traversal (Breadth-First Search using a queue) to manipulate the binary tree structure.
+
+            Traversal: Provides functions to perform different types of tree traversals recursively (inorder, preorder, postorder) and iteratively (level-order).
+
+            Deletion Mechanism: Uses a combination of level-order traversal to find nodes and swap/delete them as required.
