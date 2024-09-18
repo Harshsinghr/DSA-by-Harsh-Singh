@@ -1,4 +1,4 @@
-# DSA by MY_NAME
+# DSA by Harsh Singh
 
 Welcome to the **DSA by Harsh Singh** repository! This project is dedicated to providing a comprehensive guide to Data Structures and Algorithms (DSA) for beginners. Whether you are new to programming or looking to strengthen your understanding of DSA concepts, this repository has something for you.
 
