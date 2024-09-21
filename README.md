@@ -35,13 +35,13 @@ You can view the content in your preferred text editor or IDE.
 ### Basic Fundamentals
 - Introduction to Data Structures
 - Types of Data Structures:
-Arrays
-Linked Lists
-Stacks
-Queues
-Trees
-Graphs
-Hash Tables
+    - Arrays
+    - Linked Lists
+    - Stacks
+    - Queues
+    - Trees
+    - Graphs
+    - Hash Tables
 - Introduction to Algorithms
 
 ### Time Complexity
@@ -66,3 +66,23 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Commit your changes (git commit -m 'Add some feature')
 5. Push to the branch (git push origin feature/YourFeature)
 6. Open a Pull Request
+
+### Guidelines for Contributions
+- Ensure your code is well-documented.
+- Follow consistent coding styles.
+- Include tests for new features.
+- Respect the repository's code of conduct.
+
+### Contact
+For any queries or to connect, feel free to reach out:
+
+- Email: harsh.singh@example.com
+- LinkedIn: Harsh Singh
+
+I welcome any questions or discussions related to this project!
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+Thank you for visiting the DSA by Harsh Singh repository! Happy coding!
