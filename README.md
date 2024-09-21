@@ -56,7 +56,7 @@ Stay tuned for future updates that will include:
 - Advanced Data Structures
 - Real-world applications and examples
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
@@ -67,21 +67,21 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push to the branch (git push origin feature/YourFeature)
 6. Open a Pull Request
 
-### Guidelines for Contributions
+## Guidelines for Contributions
 - Ensure your code is well-documented.
 - Follow consistent coding styles.
 - Include tests for new features.
 - Respect the repository's code of conduct.
 
-### Contact
+## Contact
 For any queries or to connect, feel free to reach out:
 
-- Email: harsh.singh@example.com
-- LinkedIn: Harsh Singh
+- Email: 31608csai@gmail.com
+- LinkedIn: https://leetcode.com/u/Harsh_singh27/
 
 I welcome any questions or discussions related to this project!
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
