@@ -15,7 +15,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(1)
 - Simple but inefficient. Works well for small datasets or nearly sorted data.
 
-### Bucket Sort []
+### Bucket Sort
 - **Time Complexity**: Best/Average - O(n + k), Worst - O(n²)
 - **Space Complexity**: O(n + k)
 - Used for data uniformly distributed over a range.
@@ -25,7 +25,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(k)
 - Efficient for data with limited range values (integers).
 
-### Heap Sort
+### Heap Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/HeapSort.cpp)
 - **Time Complexity**: Best/Average/Worst - O(n log n)
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
