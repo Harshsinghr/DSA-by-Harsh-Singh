@@ -50,7 +50,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(n + k)
 - Works for integers, based on digit-by-digit sorting.
 
-### Selection Sort (https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/SelectionSort.cpp])
+### Selection Sort [(Learn Here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/SelectionSort.cpp)
 - **Time Complexity**: Best/Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient, always takes O(n²) comparisons.
