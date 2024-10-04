@@ -35,7 +35,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(1)
 - Works well for small or nearly sorted datasets.
 
-### Merge Sort [(Learn here)]
+### Merge Sort [(Learn here)] 
 - **Time Complexity**: O(n log n)
 - **Space Complexity**: O(n)
 - Divides and conquers. Stable and efficient for large datasets.
