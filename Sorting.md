@@ -30,12 +30,12 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
 
-### Insertion Sort
+### Insertion Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/InsertionSort.cpp)
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Works well for small or nearly sorted datasets.
 
-### Merge Sort
+### Merge Sort [(Learn here)]
 - **Time Complexity**: O(n log n)
 - **Space Complexity**: O(n)
 - Divides and conquers. Stable and efficient for large datasets.
