@@ -10,13 +10,13 @@ Space complexity measures the amount of extra memory an algorithm uses as a func
 ## Common Sorting Algorithms
 Below are the sorting algorithms you've mentioned, along with their time and space complexities:
 
-### Bubble Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.cpp)
+### Bubble Sort
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient. Works well for small datasets or nearly sorted data.
-- [(C++ Code with example)]
+- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.cpp)
 
-### Bucket Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BucketSort.cpp)
+### Bucket Sort [(Learn here)]
 - **Time Complexity**: Best/Average - O(n + k), Worst - O(n²)
 - **Space Complexity**: O(n + k)
 - Used for data uniformly distributed over a range.
