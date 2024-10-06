@@ -14,13 +14,13 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient. Works well for small datasets or nearly sorted data.
-- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.cpp)
+- [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.cpp)
 
 ### Bucket Sort [(Learn here)]
 - **Time Complexity**: Best/Average - O(n + k), Worst - O(n²)
 - **Space Complexity**: O(n + k)
 - Used for data uniformly distributed over a range.
-- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BucketSort.cpp)
+- [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BucketSort.cpp)
 
 ### Counting Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/CountingSort.cpp)
 - **Time Complexity**: O(n + k)
