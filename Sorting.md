@@ -14,6 +14,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient. Works well for small datasets or nearly sorted data.
+- [(C++ Code with example)]
 
 ### Bucket Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BucketSort.cpp)
 - **Time Complexity**: Best/Average - O(n + k), Worst - O(n²)
