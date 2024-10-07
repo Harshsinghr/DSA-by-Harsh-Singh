@@ -22,7 +22,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Used for data uniformly distributed over a range.
 - [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BucketSort.cpp)
 
-### Counting Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/CountingSort.cpp)
+### Counting Sort
 - **Time Complexity**: O(n + k)
 - **Space Complexity**: O(k)
 - Efficient for data with limited range values (integers).
