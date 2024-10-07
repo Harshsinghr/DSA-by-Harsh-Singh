@@ -38,6 +38,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Works well for small or nearly sorted datasets.
+- [(C++ Code with example)]
 
 ### Merge Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/MergeSort.cpp)
 - **Time Complexity**: O(n log n)
