@@ -32,7 +32,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: Best/Average/Worst - O(n log n)
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
-- [(C++ Code with example)]
+- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/HeapSort.cpp)
 
 ### Insertion Sort [(Learn here)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/InsertionSort.cpp)
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
