@@ -58,7 +58,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Works for integers, based on digit-by-digit sorting.
 - [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/RadixSort.cpp)
 
-### Selection Sort [(Learn Here)]
+### Selection Sort
 - **Time Complexity**: Best/Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient, always takes O(n²) comparisons.
