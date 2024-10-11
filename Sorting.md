@@ -17,7 +17,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.cpp)
 - [Python Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/BubbleSort.py)
 
-### Bucket Sort [(Learn here)]
+### Bucket Sort
 - **Time Complexity**: Best/Average - O(n + k), Worst - O(n²)
 - **Space Complexity**: O(n + k)
 - Used for data uniformly distributed over a range.
