@@ -13,7 +13,7 @@ Welcome to the **DSA by Harsh Singh** repository! This project is dedicated to p
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
-
+ 
 ## Introduction
 
 Data Structures and Algorithms are fundamental concepts in computer science that are crucial for writing efficient and effective code. This repository aims to simplify these topics for beginners, providing clear explanations, examples, and practical applications.
