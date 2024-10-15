@@ -42,7 +42,7 @@ You can view the content in your preferred text editor or IDE.
     - Trees
     - Graphs
     - Hash Tables
-- Sorting(https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/Sorting.md)
+- [Sorting](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/Sorting.md)
 - Introduction to Algorithms
 
 ### Time Complexity
