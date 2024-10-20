@@ -48,6 +48,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(n)
 - Divides and conquers. Stable and efficient for large datasets.
 - [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/MergeSort.cpp)
+- (https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/MergeSort.py)
 
 ### Quick Sort
 - **Time Complexity**: Best/Average - O(n log n), Worst - O(n²)
