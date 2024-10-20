@@ -57,6 +57,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/QuickSort.cpp)
 - [Python Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/QuickSort.py)
 
+- -### Random Quick Sort
 ### Radix Sort
 - **Time Complexity**: O(nk)
 - **Space Complexity**: O(n + k)
