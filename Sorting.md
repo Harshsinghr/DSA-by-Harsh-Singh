@@ -58,7 +58,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - [Python Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/QuickSort.py)
 
 - **Time Complexity:** Best/Average: O(n log n), Worst: O(n^2)(Random pivot selection greatly reduces the chances of worst-case scenario)
-- Space Complexity: O(log n) (Due to recursion stack)
+- **Space Complexity:** O(log n) (Due to recursion stack)
 ### Radix Sort
 - **Time Complexity**: O(nk)
 - **Space Complexity**: O(n + k)
