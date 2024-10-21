@@ -60,7 +60,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 ### Random Quick Sort
 - **Time Complexity:** Best/Average: O(n log n), Worst: O(n^2)(Random pivot selection greatly reduces the chances of worst-case scenario)
 - **Space Complexity:** O(log n) (Due to recursion stack)
-- (https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/RandomQuickSort.py)
+- [Python Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/RandomQuickSort.py)
   
 ### Radix Sort
 - **Time Complexity**: O(nk)
