@@ -72,5 +72,5 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: Best/Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Simple but inefficient, always takes O(n²) comparisons.
-- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/SelectionSort.cpp)
+- [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/SelectionSort.cpp)
 - [Python Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/SelectionSort.py)
