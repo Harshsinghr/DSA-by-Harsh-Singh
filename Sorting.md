@@ -27,7 +27,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Time Complexity**: O(n + k)
 - **Space Complexity**: O(k)
 - Efficient for data with limited range values (integers).
-- [(C++ Code with example)](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/CountingSort.cpp)
+- [C++ Code with example](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/CountingSort.cpp)
 
 ### Heap Sort 
 - **Time Complexity**: Best/Average/Worst - O(n log n)
