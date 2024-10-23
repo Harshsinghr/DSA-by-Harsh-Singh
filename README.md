@@ -79,6 +79,7 @@ For any queries or to connect, feel free to reach out:
 
 - Email: 31608csai@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/harsh-singh27/](https://www.linkedin.com/in/harsh-singh27/)
+- 
 
 I welcome any questions or discussions related to this project!
 
