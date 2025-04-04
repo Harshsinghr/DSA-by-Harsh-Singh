@@ -43,7 +43,7 @@ You can view the content in your preferred text editor or IDE.
     - Graphs
     - Hash Tables
 - [Sorting](https://github.com/Harshsinghr/DSA-by-Harsh-Singh/blob/main/Sorting.md)
-- Introduction to Algorithms
+- Introduction to Algorithms ()
 
 ### Time Complexity
 - Understanding Big O Notation
